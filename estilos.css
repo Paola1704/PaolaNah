@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(66, 63, 212);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgba(173, 156, 235, 0.781);
+}
+
+p {
+    font-size: 18px;
+    color:rgba(21, 36, 248, 0.829)
+}
